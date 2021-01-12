@@ -33,7 +33,8 @@ public:
             aData[i] = new double(0.0);
         }
     }
-};```
+};
+```
 
 doplňte:
 
