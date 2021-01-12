@@ -47,11 +47,11 @@ doplňte:
 ## B. Aplikácia
 Vytvorte projekt pre konzolovú aplikáciu (1b), ktorá:
 
-- vytvorí triedu **Student** (3 b)
+- (3 b) vytvorí triedu **Student** 
 
-- vytvorí údajovú štruktúru/kontajner (4 b)
+- (4 b) vytvorí údajovú štruktúru/kontajner 
 
-- do ktorej z textového súboru načíta zoznam študentov (3 b). Každý riadok obsahuje nasledujúce údaje (jednotlivé údaje v riadku sú oddelené medzerou):
+- (3 b) do ktorej z textového súboru načíta zoznam študentov. Každý riadok obsahuje nasledujúce údaje (jednotlivé údaje v riadku sú oddelené medzerou):
 
       Priezvisko
       
@@ -59,9 +59,9 @@ Vytvorte projekt pre konzolovú aplikáciu (1b), ktorá:
       
       Priemer (double hodnota)
 
-- zoznam študentov usporiadajte podľa dosiahnutých priemerov vzostupne (4 b)
+- (4 b) zoznam študentov usporiadajte podľa dosiahnutých priemerov vzostupne
 
-- na konzolu vypíšte usporiadaný zoznam (5 b) v tvare:
+- (5 b) na konzolu vypíšte usporiadaný zoznam v tvare:
 
       Priemer Priezvisko Meno
       
